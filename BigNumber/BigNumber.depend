@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559056055 source:c:\users\markr\desktop\codeblocks aplication\bignumber\main.c
+	<stdio.h>
+	<stdbool.h>
+	<assert.h>
+	"bn.h"
+
+1550067396 c:\users\markr\desktop\codeblocks aplication\bignumber\bn.h
+	<stdint.h>
+	<assert.h>
+
